@@ -7,20 +7,6 @@ redirect_from:
   - /
 ---
 
-Current postdoc at ASU. Former Stanford PhD and Rice alum. Researching the intersection of energy systems, decarbonization, equity, and environmental justice.
+I am curently a postdoctoral scholar in the School of Sustainable Engineering and the Built Environment at Arizona State University, where I do research at the intersection of energy systems, decarbonization, and environmental justice. I received a PhD in Energy Resource Engineering in 2022 from Stanford University, a MS in Civil and Environmental Engineering in 2017 from Stanford University, and a BS in Civil and Environmental Engineering in 2015 from Rice University. I have worked as a summer fellow at the City of Palo Alto Utilities and the United Nations Foundation, and as a research analyst at the Center for Sustainable Energy. In my free time you'll find me hiking in the mountains or searching for good light to photograph. 
 
-___
 
-How can California reach net zero emissions in its heavy-duty transportation sector? In a new paper out today in Environmental Research: Infrastructure and Sustainability, we assess different policy options. We find that in order for California to reach net-zero by 2045, early retirement policies will be needed in addition to zero emissions vehicle sales mandates. With aggressive policies, the state could save up to 64% of cumulative greenhouse gas emissions and up to 57% of excess deaths due to truck-related air pollution exposure over the next 25 years, with benefits being highest in Black and Latino communities. We compare health and climate benefits to the cost of early retirements, and find that policies implemented sooner rather than later targeting heavy-heavy duty trucks would be the most cost-effective.
-
-This study would not have been possible without my wonderful co-authors, Madalsa Singh, Sarah Saltzer, and Inês Azevedo, .
-
-The paper is open access, and we would love for you to check it out!
-
-[https://lnkd.in/gJVHa6Qk](https://lnkd.in/gJVHa6Qk)
-
-___
-
-I'm happy to share a new perspective paper with Ines Lima Azevedo, out today in IOP Publishing Progress in Energy as part of a special issue on Energy Justice in the Energy Transition. We discuss emerging environmental justice issues at the intersection of transportation and electricity systems, with a focus on health and air quality, technology access, infrastructure buildout, and the global supply chain.
-
-[https://lnkd.in/gS2ApUr4](https://lnkd.in/gS2ApUr4)
